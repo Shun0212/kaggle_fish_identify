@@ -83,7 +83,7 @@ The project successfully utilized deep learning to classify fish species with a 
 - Using ensemble models to improve accuracy.
 - Applying hyperparameter tuning to optimize the MobileNetV2 model further.
 
-  # 魚種分類のディープラーニング
+# 魚種分類のディープラーニング
 
 このプロジェクトでは、Kaggleで利用可能な「Fish Dataset」を使用して、異なる魚種を分類するためのディープラーニングモデルを構築します。このプロジェクトの主な目的は、畳み込みニューラルネットワーク（CNN）をトレーニングして、魚種を画像から正確に識別することです。プロジェクトでは、TensorFlow、Keras、およびMobileNetV2モデルを用いた転移学習を利用しています。
 
